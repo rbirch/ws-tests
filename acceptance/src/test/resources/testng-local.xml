@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AcceptanceTestSuite" verbose="2">
+  <parameter name="baseUrl" value="https://beta.familysearch.org" />
+  <test name="local">
+    <groups>
+      <run>
+        <include name="new"/>
+        <!--<include name="unsafe"/>-->
+      </run>
+    </groups>
+    <packages>
+      <package name="org.familysearch.cmp.messages.acceptance"/>
+    </packages>
+  </test>
+</suite>

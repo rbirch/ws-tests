@@ -1,0 +1,11 @@
+org\familysearch\cmp\messages\acceptance\util\UriConstants$QueryBuilder.class
+org\familysearch\cmp\messages\acceptance\util\UriConstants.class
+org\familysearch\cmp\messages\acceptance\util\JsonMapper.class
+org\familysearch\cmp\messages\acceptance\util\UriConstants$QueryBuilder$SortParamValues.class
+org\familysearch\cmp\messages\acceptance\util\TestGroup.class
+org\familysearch\cmp\messages\acceptance\util\TestMessage.class
+org\familysearch\cmp\messages\acceptance\MessageEndpointsAT.class
+org\familysearch\cmp\messages\acceptance\util\UriConstants$QueryBuilder$QueryParameters.class
+org\familysearch\cmp\messages\acceptance\util\TestHelper.class
+org\familysearch\cmp\messages\acceptance\util\JsonMapper$State.class
+org\familysearch\cmp\messages\acceptance\util\TestThread.class
